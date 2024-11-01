@@ -76,3 +76,14 @@ i generally made this to guide you with the errors but its hard to specify each 
 
 heres what it would look like if it is successful and ur ready to go, also please do keep in mind that installing a new version of python takes time
 
+
+--------
+get started
+well lets start on how to download the coding program
+first go to:https://learn.microsoft.com/en-us/windows/wsl/install
+and open your powershell in windows search bar and click run administrator
+and when you opened it 
+type this wsl --install on powershell
+after that wait for it to install and restart your pc
+![Screenshot_100](https://github.com/user-attachments/assets/d993389a-61e5-4908-9729-cd4322161b55)
+
