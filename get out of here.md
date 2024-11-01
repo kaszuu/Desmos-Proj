@@ -71,3 +71,8 @@ just keep in mind that through out this process there will be a bunch and bunch 
 you might ecounter some errors regarding pynev and distutils and generally requires to download pip or the downgrade of python version
 
 i generally made this to guide you with the errors but its hard to specify each and every one so please just ask me if you need help.
+![Screenshot_98](https://github.com/user-attachments/assets/ca954240-59c3-4a5c-abb5-0e5257278a4d)
+![Screenshot_99](https://github.com/user-attachments/assets/7eb94912-f5a4-40cc-b8ad-12d6b60e8e4c)
+
+heres what it would look like if it is successful and ur ready to go, also please do keep in mind that installing a new version of python takes time
+
