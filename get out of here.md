@@ -4,6 +4,7 @@ first you need a pc, ye a pc
 
 im too bored to make this organized so just follow my steps, good? good...
 
+
 first i need you to install  install WSL so heres the link:https://learn.microsoft.com/en-us/windows/wsl/install
 
 just follow everything there
@@ -38,4 +39,9 @@ also if you use anotehr way to turn teh video into frames you will be limited to
 
 if you need help just text me. 
 
+some screenies as a guide:
+
+![Screenshot_95](https://github.com/user-attachments/assets/622474c9-4018-47ea-983c-b95d4e24755f) image of successful ffmpeg
+![Scr![Screenshot_94](https://github.com/user-attachments/assets/c7b38052-46d3-4eb8-90d1-9cf391937507) how it should look after a successful install of ubuntu
+eenshot_92](https://github.com/user-attachments/assets/ce230059-510e-43d9-b702-5084a5e9b52e) for the yt-dlp command
 get out of here
