@@ -45,3 +45,29 @@ some screenies as a guide:
 ![Scr![Screenshot_94](https://github.com/user-attachments/assets/c7b38052-46d3-4eb8-90d1-9cf391937507) how it should look after a successful install of ubuntu
 eenshot_92](https://github.com/user-attachments/assets/ce230059-510e-43d9-b702-5084a5e9b52e) for the yt-dlp command
 get out of here
+
+
+
+
+
+
+
+-----------------
+
+this is another way to do it and the way that i made personally 
+rather than using wls you can use ubuntu, its a little harder but errors are easier to fix
+so first search for ubuntu on google and download the iso
+download a virtual machine, i personally use oracle
+just watch yt videos on how to open ubuntu using oracle
+
+after loading oracle, you can now use ubuntu ur welcome
+after that go to terminal and read this:https://github.com/kevinjycui/DesmosBezierRenderer
+
+but the things is this is wont work anymore since its unupdated so i made a patch
+
+first you need to install another version of python and i used 3.10 
+just keep in mind that through out this process there will be a bunch and bunch of errors and it took me 10 hours to fix these and i cant list all of them here so if you need help please do message me in facebook or email me on zamorabernard451@gmail.com
+
+you might ecounter some errors regarding pynev and distutils and generally requires to download pip or the downgrade of python version
+
+i generally made this to guide you with the errors but its hard to specify each and every one so please just ask me if you need help.
